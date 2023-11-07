@@ -1,0 +1,62 @@
+
+[
+    {
+      "id": "1",
+      "title": "Producto 1",
+      "description": "Descripción del producto 1",
+      "code": "P001",
+      "price": 20.99,
+      "status": true,
+      "stock": 100,
+      "category": "Electrónica",
+      "thumbnails": ["image1.jpg", "image2.jpg"]
+    },
+    {
+      "id": "2",
+      "title": "Producto 2",
+      "description": "Descripción del producto 2",
+      "code": "P002",
+      "price": 15.99,
+      "status": true,
+      "stock": 50,
+      "category": "Ropa",
+      "thumbnails": ["image3.jpg", "image4.jpg"]
+    },
+    
+    {
+        "id": "3",
+        "title": "Producto 3",
+        "description": "Descripción del producto 3",
+        "code": "P003",
+        "price": 10.99,
+        "status": true,
+        "stock": 50,
+        "category": "Deporte",
+        "thumbnails": ["image3.jpg", "image4.jpg"]
+      },
+
+      {
+        "id": "4",
+        "title": "Producto 4",
+        "description": "Descripción del producto 4",
+        "code": "P004",
+        "price": 20.99,
+        "status": true,
+        "stock": 100,
+        "category": "Comida",
+        "thumbnails": ["image3.jpg", "image4.jpg"]
+      },
+
+      {
+        "id": "5",
+        "title": "Producto 5",
+        "description": "Descripción del producto 5",
+        "code": "P005",
+        "price": 5.99,
+        "status": true,
+        "stock": 10,
+        "category": "Plantas",
+        "thumbnails": ["image3.jpg", "image4.jpg"]
+      }
+  ]
+  
